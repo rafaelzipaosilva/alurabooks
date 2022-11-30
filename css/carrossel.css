@@ -35,6 +35,7 @@
 
 .botoes {
   display: flex;
+  align-items: center;
 }
 
 .card {
@@ -71,4 +72,5 @@
   color: var(--branco);
   font-weight: 700;
   text-decoration: none;
+  margin: 1.5em 0;
 }
